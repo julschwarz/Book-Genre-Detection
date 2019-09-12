@@ -1,7 +1,7 @@
 # DETECTING BOOK GENRES FROM THE BOOK DESCRIPTION USING A FNN
 
 ## Keywords
-Multi class text classification, book genre detection, text classification, machine learning, FNN, BlurbGenreCollection-EN
+Multi class text classification, book genre detection, machine learning, FNN, BlurbGenreCollection-EN
 
 ## Dataset:
 92.000 (english) Books from the BlurbGenreCollection-EN (https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/data/blurb-genre-collection.html)
