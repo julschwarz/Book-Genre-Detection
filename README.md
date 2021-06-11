@@ -30,6 +30,3 @@ Build a classifier that predicts the book‘s genre
 6. Label Encoding
 7. Hyperparameter Tuning
 8. Build two-layer-Perceptron
-
-## RUN THIS NOTEBOOK ON COLAB
-https://colab.research.google.com/drive/1Jfg3pj5DwY5ZSoEanQHN6gAYj8jjGN9y?usp=sharing
